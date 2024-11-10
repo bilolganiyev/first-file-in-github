@@ -1,0 +1,13 @@
+h2{background-color: yellow; color: green; text-align: center;}
+label{font-size: 20px; color: green;}
+.o{width: 1000px; height: 100;}
+.hayvonlar{color: red; }
+.button{font-size: 30px; background-color: rgb(5, 120, 251); color: white;}
+h1{text-align: center; background-color: rgb(148, 214, 252);}
+.virtual{background-color: yellow;}
+table{ width: 90%; color: white; height: 20%; background-color: black; border-collapse: collapse; font-size: 20px; margin: 0 auto;}
+th , td{border: 2px solid black;}
+.name{ background-color:  red; color: white;}
+.y{background-color: green; color: white;}
+.u{background-color: blue; color: white;}
+.h{color: white;}
